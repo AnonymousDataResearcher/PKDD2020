@@ -1,0 +1,10 @@
+python/data/private
+python/data/public/retailer
+python/root
+python/docs/build
+python/results
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
