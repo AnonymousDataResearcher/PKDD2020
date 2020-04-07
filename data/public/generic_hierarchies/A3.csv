@@ -1,0 +1,30 @@
+Category;Super-Category
+ALCOHOLS AND TOBACCO;Non Perishable D
+SOFT DRINKS NP;Non Perishable D
+HOT DRINKS;Non Perishable C
+SPREAD NP;Non Perishable C
+SNACKS;Non Perishable B
+SWEETS;Non Perishable B
+CARBS NP;Non Perishable A
+CONDIMENTS NP;Non Perishable A
+FRUITS AND VEGETABLES NP;Non Perishable A
+GRAINS;Non Perishable A
+MEAT AND FISH NP;Non Perishable A
+PREPARED MEALS NP;Non Perishable A
+BREAD;Perishable A
+CHEESE;Perishable A
+DESSERTS;Perishable A
+EGGS;Perishable A
+FRUITS AND VEGETABLES P;Perishable A
+MEAT AND FISH P;Perishable A
+MILK;Perishable A
+CARBS P;Perishable B
+CONDIMENTS P;Perishable B
+PREPARED MEALS P;Perishable B
+SOFT DRINKS P;Perishable B
+SPREAD P;Perishable B
+BABY PRODUCTS;Non Food
+NON FOOD;Non Food
+PERSONAL CARE;Non Food
+PET ARTICLES;Non Food
+WASHING AND CLEANING;Non Food

@@ -1,0 +1,11 @@
+dsx_size_r;720
+dsx_size_d;1000
+optimization_strategy;de
+iem_mode;nlw
+clustering_mode;pyclustering_voronoi
+epsilon;0.01
+n_max;200
+randomization;0.001
+k;4
+dataset;D3_52
+hierarchy;A3
