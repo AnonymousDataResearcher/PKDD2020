@@ -39,8 +39,6 @@ The software is build on Python 3.7.5, the external dependencies are indicated i
 
 Known Issues
 ============
-The code uses the string 'c0' for the inter-super-category weight, instead of 'w_s'. This is a legacy issue that will be fixed once the code goes public on a non-anonymous github. This is corrected in the paper; so that will be different in Table 5.
-
-The Spectral Clustering competitor in the paper was implemented without random_state. This issue was discovered (and corrected) after the paper was handed in; as such the spectral clustering results might be slightly different, though the diffrence is generally smaller than the presented precision in the Table 7.
+The Spectral Clustering competitor in the paper was implemented without random_state. This issue was discovered (and corrected) after the paper was handed in; as such the spectral clustering results might be slightly different, though the difference is generally smaller than the presented precision in the Table 7.
 
 As this code is part of a project that is being executed; there are several improvement ideas scattered in the code as TODO's. However, none of these invalidate the results presented in the paper.
